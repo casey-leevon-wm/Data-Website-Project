@@ -1,0 +1,43 @@
+
+
+
+
+body{
+    border-spacing: 10px;
+    background-image: url("http://shenkitup.com/wp-content/uploads/Screen-shot-2011-08-08-at-7.40.03-PM.png");
+}
+
+script{
+    background: transparent;
+}
+
+
+.center{
+    table-layout: inherit;
+}
+
+table{
+    background: transparent;border-spacing: 10px; border: dashed;
+}
+
+
+tr{
+    border: dashed;
+}
+
+
+header{
+    background-color: aliceblue;
+}
+
+
+h1{
+    mso-page-scale: 10;
+    all-space-treatment: center;
+    border-spacing: 10px;
+    background-color: blueviolet;
+}
+
+h3{
+    background: red;
+}
